@@ -2,7 +2,7 @@ README - Dashboard de Análisis de los Niveles de Atención de la Red Hospitalar
 
 [![Imagen-servicio.webp](https://i.postimg.cc/P5DTBN4r/Imagen-servicio.webp)](https://postimg.cc/5Xfhz4TZ)
 
-Descripción General 🫀
+Descripción General ⚡
 
 Este dashboard proporciona un análisis detallado de indicadores clave de desempeño (KPIs) relacionados con la gestión del servicio. Permite visualizar y evaluar la eficiencia operativa a través de diferentes métricas y desviaciones respecto a los objetivos establecidos.
 
