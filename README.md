@@ -2,9 +2,13 @@ README - Dashboard de Análisis de los Niveles de Atención de la Red Hospitalar
 
 [![Imagen-servicio.webp](https://i.postimg.cc/P5DTBN4r/Imagen-servicio.webp)](https://postimg.cc/5Xfhz4TZ)
 
-Descripción General ⚡
+Descripción General :memo:
 
-Este dashboard proporciona un análisis detallado de indicadores clave de desempeño (KPIs) relacionados con la gestión del servicio. Permite visualizar y evaluar la eficiencia operativa a través de diferentes métricas y desviaciones respecto a los objetivos establecidos.
+Este dashboard proporciona un análisis detallado de indicadores clave de desempeño (KPIs) relacionados con la gestión del servicio, especialmente los niveles de atención y los tiempos de gestión. Permite visualizar y evaluar la eficiencia operativa a través de diferentes métricas y desviaciones respecto a los objetivos establecidos.
+El objetivo principal es poder tener un análisis ágil de los principales KPIs, en este caso niveles de atención, AHT (tiempo medio de operación) y desviación de la previsión frente a la actividad real.
+Sin hacer ningún filtro de tiempo, vemos que lo que llevamos de servicio estamos dentro de los objetivos marcados en cuanto a niveles de atención y desviación de la actividad, pero en cambio estamos muy desviados en los tiempos de la llamada.
+¿Dónde habría que poner foco? en la mejora del AHT del canal Cita Previa porque claramente es el que más penalizado está respecto al resto. A partir de este foco, entraríamos a revisar por qué hay también una mayor desviación entre territorios.
+
 
 Contenido del Dashboard
 
