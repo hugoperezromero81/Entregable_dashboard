@@ -22,7 +22,7 @@ Además, en el repositorio también tenemos el archivo README.md
 
 El dashboard se alimenta de datos estructurados en la hoja dinámicas_dashboard y presenta los siguientes indicadores:
 
-1. Objetivos Claves
+1. Objetivos Claves ✅
 
 Objetivo NAT: 0.8
 
@@ -30,7 +30,7 @@ Objetivo AHT (Average Handling Time): 00:03:00
 
 Objetivo de Desviación: +/-10%
 
-2. Indicadores de Desempeño
+2. Indicadores de Desempeño ⬆️
 
 Niveles de atención global
 
@@ -38,7 +38,7 @@ Promedio de NDA (Nivel de Atención por Departamento)
 
 Promedio de AHT (Tiempo promedio de gestión de atención)
 
-3. Análisis de Desviaciones
+3. Análisis de Desviaciones 💹
 
 Desviación global: Evaluación de la variabilidad en la atención
 
@@ -52,7 +52,7 @@ Analizar desviaciones con respecto a los valores previstos.
 
 Identificar oportunidades de mejora en la eficiencia del servicio.
 
-Requisitos
+Requisitos 🏗️
 
 Para utilizar el dashboard, asegúrese de contar con un software compatible con archivos Excel (.xlsx), como:
 
