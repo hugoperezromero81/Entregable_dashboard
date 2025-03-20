@@ -12,6 +12,14 @@ Sin hacer ningún filtro de tiempo, vemos que lo que llevamos de servicio estamo
 
 Contenido del Dashboard
 
+Se ha trabajado con un archivo CSV
+BBDD_Dashboard.csv
+
+El archivo mencionado se transforma en un archivo .XLS para realizar el proyecto de Dashboard
+Proyecto_dashboard.xlsx
+
+Además, en el repositorio también tenemos el archivo README.md
+
 El dashboard se alimenta de datos estructurados en la hoja dinámicas_dashboard y presenta los siguientes indicadores:
 
 1. Objetivos Claves
